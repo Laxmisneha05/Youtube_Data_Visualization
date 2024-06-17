@@ -4,7 +4,7 @@ This project utilizes the YouTube API to fetch and analyze data from various You
 ### Installation
 First, clone the repository to your local machine:
 
-git clone https://github.com/yourusername/youtube-data-analysis.git
+git clone https://github.com/Laxmisneha05/youtube-data-analysis.git
 
 ### Install the required packages using pip:
 
